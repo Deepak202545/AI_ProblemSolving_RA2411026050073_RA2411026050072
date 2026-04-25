@@ -1,3 +1,4 @@
+import streamlit as st
 st.header("Tic-Tac-Toe AI")
 st.write("This project implements Tic-Tac-Toe using Minimax algorithm.")
 
